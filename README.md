@@ -1,111 +1,28 @@
 # Eridjon Krrashi
+IT Operations & Backend Engineer · Tirana, Albania
 
-Backend and platform-focused software engineer building resilient distributed systems, Kubernetes infrastructure tooling, observability platforms, and cloud-native backend services.
-
-## Engineering Focus
-
-- Backend Engineering
-- Platform Engineering
-- Kubernetes
-- Cloud Infrastructure
-- Distributed Systems
-- Observability
-- CI/CD
-- API Design
+Software Engineering graduate (Epoka University) working hands-on with production systems.
 
 ## Experience
+- **2rmlab** (Sep 2026 – present): monitor a live PHP/PostgreSQL platform on 48 Ubuntu
+  servers with Zabbix: alert triage, root-cause analysis and incident reports.
+- **Resourcing Life Science, London** (Dec 2025 – May 2026, Data Engineering Intern):
+  Python data pipelines on PostgreSQL and AWS (Aurora, S3, IAM).
 
-### Data Science Engineer — Resourcing Life Science
+## Featured projects
+- **Resilience Board**: Kubernetes self-healing & monitoring platform on k3s (AWS EC2).
+  Measures pod recovery time to sub-second precision and exposes Prometheus metrics.
+- **DevLaunch IDP**: self-service platform that deploys services to Kubernetes from a
+  short spec. .NET 9, React, PostgreSQL, Helm, Prometheus/Grafana. 167 tests, 78% coverage.
+- **Parallel Threat Intelligence Search Engine**: multithreaded search and indexing
+  for threat-intelligence data in Python.
 
-2025 – 2026
+## Tech
+Linux · Bash · Python · FastAPI · PostgreSQL · Docker · Kubernetes (k3s) · Helm ·
+AWS (EC2, S3, IAM, ECR, Aurora) · Zabbix · Prometheus · Grafana · GitHub Actions · C#/.NET · PHP
 
-Worked on real-world data and infrastructure-related workflows for a London-based recruitment company.
+## Currently
+- AWS Certified Solutions Architect – Associate (in progress)
+- Open to IT support, operations and junior backend/DevOps roles (Tirana or remote)
 
-Technologies and responsibilities included:
-
-- AWS Aurora
-- S3 Buckets
-- IAM
-- PostgreSQL
-- DBeaver
-- Java
-- Python
-- database operations
-- data processing workflows
-
-## Education
-
-Bachelor's degree in Software Engineering — Epoka University  
-Expected graduation: 2026
-
-## Certifications In Progress
-
-- AWS Certified Solutions Architect Associate (SAA-C03)
-- Certified Kubernetes Administrator (CKA)
-
-Expected completion: 2026
-
-## Featured Project
-
-### Resilience Board
-
-Kubernetes chaos engineering and self-healing observability platform.
-
-Key capabilities:
-
-- Kubernetes pod lifecycle monitoring
-- Controlled chaos experiments
-- Self-healing detection
-- Recovery-time correlation
-- Prometheus-compatible metrics
-- Health scoring
-- Dockerized FastAPI backend
-- GitHub Actions CI
-- Kubernetes RBAC and in-cluster deployment validation
-
-Verified end-to-end self-healing detection with sub-second recovery correlation inside a live Kubernetes cluster.
-
-Repository:
-
-```text
-https://github.com/eridjonkrrashi/resilience-board
-```
-
-## Technologies
-
-```text
-Python
-FastAPI
-Kubernetes
-Docker
-SQLAlchemy
-SQLite
-GitHub Actions
-Linux
-JavaScript
-HTML/CSS
-Java
-C#
-PHP
-MySQL
-PostgreSQL
-AWS
-```
-
-## Current Direction
-
-Currently focused on:
-
-- backend systems engineering
-- Kubernetes-based systems
-- cloud-native infrastructure
-- observability tooling
-- resilient platform architecture
-
-## Contact
-
-```text
-GitHub: github.com/eridjonkrrashi
-Email:  eridjonkrrashi84@gmail.com
-Phone: +355 67 687 1779
-```
+📫 eridjonkrrashi84@gmail.com · LinkedIn: linkedin.com/in/eridjon-krrashi-19a5582b8
